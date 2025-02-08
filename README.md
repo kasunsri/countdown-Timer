@@ -36,4 +36,4 @@ An interactive **Countdown Timer** built with **React.js** and styled using **Ta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/countdown-timer.git
+   git clone https://github.com/kasunsri/countdown-timer.git
