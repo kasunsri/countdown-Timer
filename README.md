@@ -7,12 +7,6 @@ An interactive **Countdown Timer** built with **React.js** and styled using **Ta
 
 ---
 
-## Live Demo 🚀
-
-Check out the live demo of this project:  
-🔗 [Live Demo](https://your-live-demo-url.com)
-
----
 
 ## Features ✨
 
@@ -29,15 +23,6 @@ Check out the live demo of this project:
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
 - **State Management**: React Hooks (`useState`, `useEffect`)
-- **Deployment**: Vercel / Netlify / GitHub Pages (choose your platform)
-
----
-
-## Screenshots 📸
-
-### Countdown Timer Interface
-![Countdown Timer](./assets/screenshot.png)  
-*Replace this with an actual screenshot of your app.*
 
 ---
 
