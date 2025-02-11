@@ -17,6 +17,13 @@ An interactive **Countdown Timer** built with **React.js** and styled using **Ta
 - **Reset Functionality**: Reset the timer and start over with a new event.
 
 ---
+## Screenshots 📸
+
+### Countdown Timer Interface
+![Countdown Timer](./assets/s1.png) 
+
+
+---
 
 ## Tech Stack 💻
 
