@@ -21,6 +21,8 @@ An interactive **Countdown Timer** built with **React.js** and styled using **Ta
 
 ### Countdown Timer Interface
 ![Countdown Timer](./src/assets/s1.png) 
+![Countdown Timer](./src/assets/s2.png) 
+![Countdown Timer](./src/assets/s3.png) 
 
 ---
 
